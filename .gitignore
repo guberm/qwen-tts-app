@@ -1,0 +1,45 @@
+# Flutter
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+*.iml
+*.lock
+.idea/
+.vscode/
+.gradle/
+.android/
+.ios/
+ios/
+android/
+.env
+
+# Misc
+.DS_Store
+*.swp
+*.swo
+*~
+.AppleDouble
+.LSOverride
+*.pyc
+.python-version
+
+# Build artifacts
+*.apk
+*.aab
+*.dill
+*.exe
+*.dll
+*.dylib
+*.so
+*.a
+*.la
+*.lo
+*.o
+*.obj
+*.pyc
+*.pyo
+*.pyd
